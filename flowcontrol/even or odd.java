@@ -15,4 +15,4 @@ public class EvenOrOdd {
 		s.close();
 	}
 }
-© 2020 GitHub
+
